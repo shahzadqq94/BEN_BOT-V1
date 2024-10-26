@@ -1,27 +1,27 @@
   
-![PRINXE-MD](https://readme-typing-svg.demolab.com?font=bold&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=🥰ASSALAMUALAIKUM❣️+EVERYONE👋🏻;😍WELCOME+TO+PRINCE+MD+WhatsApp+User;BOT+💙)
+![BEN_BOT-V1](https://readme-typing-svg.demolab.com?font=bold&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=🥰ASSALAMUALAIKUM❣️+EVERYONE👋🏻;😍WELCOME+TO+BEN_BOT-V1+WhatsApp+User;BOT+💙)
   
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/a/7GGjC3r.gif'/></a>
+<a><img src='https://i.imgur.com/a/7GGjC3r.gif'/></a>
 
  
  <p align="center">  
   <a href="">
-    <img alt="PRINCE" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="BEN TEN" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
   </a>
 </p>
 
 
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS/PRINXCE-WB"><img title="Author" src="https://img.shields.io/badge/𝑷𝑹𝑰𝑵𝑪𝑬 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/TraderAn-King/BEN_BOT-V1"><img title="Author" src="https://img.shields.io/badge/BEN_BOT-V1-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXCE-WB/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/PRINXCE-MD-WB?&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXCE-WB/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/PRINXE-WB?style=social"></a>
-<a href="https://github.com/PRINCE-GDS/PRINXCE-WB/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/PRINXCE-WB?label=Watching&style=social"></a>
+<a href="https://github.com/TraderAn-King?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/TraderAn-King?label=Followers&style=social"></a>
+<a href="https://github.com/TraderAn-King/BEN_BOT-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TraderAn-King/BEN_BOT-V1?&style=social"></a>
+<a href="https://github.com/TraderAn-King/BEN_BOT-V1/network/members"><img title="Fork" src="https://img.shields.io/github/forks/TraderAn-King/BEN_BOT-V1?style=social"></a>
+<a href="https://github.com/TraderAn-King/BEN_BOT-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TraderAn-King/BEN_BOT-V1?label=Watching&style=social"></a>
 </p>
 
 
@@ -51,13 +51,13 @@
  
 ### <br>
 <p align="left">
-<a href="https://heroku.com/deploy?template=https://github.com/PRINCE-GDS/PRINXCE-WB"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/TraderAn-King/BEN_BOT-V1"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render"></a>
 <p/>
  
 
 ### <br>
 <p align="left">
-<a href="https://repl.it/github/PRINCE-GDS/PRINXCE-WB"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗥𝗘𝗣𝗟𝗜𝗧-orange?style=for-the-badge&logo=replit"></a>
+<a href="https://repl.it/github/TraderAn-King/BEN_BOT-V1"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗥𝗘𝗣𝗟𝗜𝗧-orange?style=for-the-badge&logo=replit"></a>
 <p/>
 
 ### <br>
