@@ -39,7 +39,7 @@
    
 ### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 CHANNEL 𝙇𝙄𝙉𝙆 🟢
    <p align="left">
-      <a href="https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32"><img height= "30" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
+      <a href="https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32"><img height= "30" length= "10" title="Author" src="https://img.shields.io/badge/Support Channel-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
    </p>
    
 ### 🟢 CONTACT CREATOR 🟢
