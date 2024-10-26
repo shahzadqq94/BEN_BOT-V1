@@ -1,13 +1,6 @@
 ![BEN_BOT-V1](https://readme-typing-svg.demolab.com?font=bold&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=🥰ASSALAMUALAIKUM❣️+EVERYONE👋🏻;😍WELCOME+TO+BEN_BOT-V1+WhatsApp+User;BOT+💙)
 
 <a><img src='20241026_180435.jpg'/></a>
-<a><img src='20241026_180435.jpg'/></a>
-
-<p align="center">  
-  <a href="">
-    <img alt="BEN TEN" width="600" height="350" src="20241026_180435.jpg">
-  </a>
-</p>
 
 <p align="center">
 <a href="https://github.com/TraderAn-King/BEN_BOT-V1"><img title="Author" src="https://img.shields.io/badge/BEN_BOT-V1-black?style=for-the-badge&logo=github"></a>
@@ -22,7 +15,6 @@
 
 <h1 align="center">⭕BEN_BOT-V1⭕</h1>
 
-<a><img src='20241026_180435.jpg'/></a>
 <a><img src='20241026_180435.jpg'/></a>
 
 ### 𝘾𝙇𝙄𝘾𝙆 𝘼𝙉𝘿 𝙒𝘼𝙄𝙏 𝙏𝙊 𝙊𝙋𝙀𝙉 𝙏𝙃𝙀 𝙎𝙄𝙏𝙀
