@@ -1,13 +1,13 @@
   
 ![BEN_BOT-V1](https://readme-typing-svg.demolab.com?font=bold&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=🥰ASSALAMUALAIKUM❣️+EVERYONE👋🏻;😍WELCOME+TO+BEN_BOT-V1+WhatsApp+User;BOT+💙)
   
-<a><img src='https://i.imgur.com/a/7GGjC3r.gif'/></a>
-<a><img src='https://i.imgur.com/a/7GGjC3r.gif'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
 
  
  <p align="center">  
   <a href="">
-    <img alt="BEN TEN" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="BEN TEN" width="600" height="350" src="https://imgur.com/a/8acFmmA">
   </a>
 </p>
 
@@ -27,8 +27,8 @@
 
  <h1 align="center">⭕BEN_BOT-V1⭕</h1>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
 
 ### 𝘾𝙇𝙄𝘾𝙆 𝘼𝙉𝘿 𝙒𝘼𝙄𝙏 𝙏𝙊 𝙊𝙋𝙀𝙉 𝙏𝙃𝙀 𝙎𝙄𝙏𝙀
 
@@ -46,8 +46,8 @@
 
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
  
 ### <br>
 <p align="left">
@@ -71,32 +71,27 @@
 ### <br>
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
 
 ### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
    <p align="left">
-      <a href="https://chat.whatsapp.com/Jo5bmHMAlZpEIp75mKbwxP"><img height= "30" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
+      <a href="https://chat.whatsapp.com/EKayqcDGrjC1XtF2DYuZdn"><img height= "30" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
      <p/>
        
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/PRINCE-GDS/PRINXE-MD/blob/main/LICENSE)
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
+### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Clikc here](https://github.com/TraderAn-King/BEN_BOT-V1/blob/main/LICENSE)
+ <a><img src='https://imgur.com/a/8acFmmA'/></a>
+  <a><img src='https://imgur.com/a/8acFmmA'/></a>
 ### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 𝙋𝙍𝙄𝙉𝘾𝙀 𝘽𝙊𝙏`]
-#### 🌐 Arabic = ar 
-#### 🌐 Urdu = ur
 #### 🌐 English Global = en
-#### 🌐 Bahasa Indonesia = id
-#### 🌐 Portuguese = pt
-#### 🌐 Spanish = es
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
+<a><img src='https://imgur.com/a/8acFmmA'/></a>
 
 
 
