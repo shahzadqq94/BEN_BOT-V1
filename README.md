@@ -1,54 +1,79 @@
-![BEN_BOT-V1](https://readme-typing-svg.demolab.com?font=bold&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=🥰ASSALAMUALAIKUM❣️+EVERYONE👋🏻;😍WELCOME+TO+BEN_BOT-V1+WhatsApp+User;BOT+💙)
-
-<a><img src='20241026_180435.jpg'/></a>
-
-<p align="center">
-<a href="https://github.com/TraderAn-King/BEN_BOT-V1"><img title="Author" src="https://img.shields.io/badge/BEN_BOT-V1-black?style=for-the-badge&logo=github"></a>
+## BEN_BOT-V1
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center"> 
+<u>âš¡ A simple WhatsApp User Bot Created Nothing âš¡</u>
 </p>
-
 <p align="center">
-<a href="https://github.com/TraderAn-King?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/TraderAn-King?label=Followers&style=social"></a>
-<a href="https://github.com/TraderAn-King/BEN_BOT-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TraderAn-King/BEN_BOT-V1?&style=social"></a>
-<a href="https://github.com/TraderAn-King/BEN_BOT-V1/network/members"><img title="Fork" src="https://img.shields.io/github/forks/TraderAn-King/BEN_BOT-V1?style=social"></a>
-<a href="https://github.com/TraderAn-King/BEN_BOT-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TraderAn-King/BEN_BOT-V1?label=Watching&style=social"></a>
+<img src="https://api.shannmoderz.xyz/server/file/JhnZNPg59LpUxYf.jpg"/>       
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+â€¢â˜…âƒ QUEEN-+ANITA-+V3â˜…âƒâ€¢;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+22%2F8%2F2024." alt="Typing SVG" /></a>
+ </p>
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
 </p>
+<p align="center">
+<a href="https://github.com/TraderAn-King/BEN_BOT-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TraderAn-King/BEN_BOT-V1?color=blue&style=flat-square"></a>
+<a href="https://github.com/TraderAn-King/BEN_BOT-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TraderAn-King/BEN_BOT-V1?color=yellow&style=flat-square"></a>
+<a href="https://github.com/TraderAn-King/BEN_BOT-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TraderAn-King/BEN_BOT-V1?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/TraderAn-King/BEN_BOT-V1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
+</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+#
 
-<h1 align="center">⭕BEN_BOT-V1⭕</h1>
+## BEN_BOT-V1 Deployment Methods
+---
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/TraderAn-King/BEN_BOT-V1/fork) (A MUST) and `Star â­ Repository` for Courage.**
+2.  **Get `SESSION ID` ON [`REPLIT`](https://replit.com/@deeceexxx01/DavidCyril-X-pair-1)** 
 
+3. **UPLOAD YOUR CREDS.JSON FILE ON SESSION FOLDER**
 
-### HOW TO USE BOT STEP BY STEP
+4. **Deploy on [`SCALINGO`](https://dashboard.scalingo.com)**
 
+5. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template*=https://github.com/DeeCeeXxx/Queen_Anita-V3)** 
 
+6. **Deploy on [`REPLIT`](https://replit.com/github/Deeceexxx/Queen_Anita-V2)** 
 
-### STEP 1 FORK REPO AND START
+7. **Deploy on [`RAILWAY`](https://railway.com/github/Deeceexxx/Queen_Anita-V2)**  
 
-### STEP 2 DOWNLOAD FILE ZIP FROM HERE GITHUB
+8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L) for more**
 
-### STEP 3 UPLOAD YOUR PANEL OR RENDER REPLIT ...... 
+9. **All Tutorials Here [`Click Here`](https://www.youtube.com/@DavidCyril_TECH)**
 
-### STEP 4 START AND USE YOUR NUMBER FOR PAIRING IN PANEL RENDER......
+</a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### STEP 5 CHECK SPEED FOLLOW FORK GITHUB
+## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+ <br> 
+<p align="center">
+<a href="https://wa.me/93730285765"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://t.me/deecee_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
+<p align="center">
+<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# 
 
- 
+<br>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
-   <p align="left">
-      <a href="https://chat.whatsapp.com/EKayqcDGrjC1XtF2DYuZdn"><img height= "30" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
-   </p>
-   
-### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 CHANNEL 𝙇𝙄𝙉𝙆 🟢
-   <p align="left">
-      <a href="https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32"><img height= "30" length= "10" title="Author" src="https://img.shields.io/badge/Support Channel-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
-   </p>
-   
-### 🟢 CONTACT CREATOR 🟢
-   <p align="left">
-      <a href="https://wa.me/qr/DLNTMYH2GDWWA1"><img height= "30" length= "10" title="Author" src="https://img.shields.io/badge/CONTACT-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
-   </p>
+* [ðŸ§‘â€ðŸ’» Follow Queen_Anita-V3 Whatsapp ChannelðŸ§‘â€ðŸ’»](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)
 
-### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Click here](https://github.com/TraderAn-King/BEN_BOT-V1/blob/main/LICENSE)
+* [ðŸ§‘â€ðŸ’» Join Queen_Anita-V3 Telegram Group ðŸ§‘â€ðŸ’»](https://t.me/dctech)
 
-### 💠 [`𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝙁𝙊𝙍 𝙋𝙍𝙄𝙉𝘾𝙀 𝘽𝙊𝙏`]
-#### 🌐 English Global = en
-#### 🌐 Farsi Pashto Global = Soon
+* [âœ… Join Public Group âš¡](https://chat.whatsapp.com/KLu7a2r4bc4JFV8s5epvsF)
+
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+
+- *Queen_Anita-V3 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use Queen_Anita-V3 at your own risk by keeping this warning in mind.*
+  
+  #### ```DAVID CYRIL PROFILE VIEWS ðŸ§š```
+![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## Community and Support
+
+FOLLOW DAVID CYRIL WHAtSAPP CHANNEL FOR MORE UPDATES
+[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L))
