@@ -9,16 +9,16 @@ global.nomerowner = ["93730285765"]
 
 // Apikey 
 
-global.skizo = 'David Cyril'
-global.casterix = 'DeeCeeXxx'
+global.skizo = 'Nothing'
+global.casterix = 'TraderAn-King'
 //watermark 
 global.packname = '*NOTHING*'
 global.author = 'BEN_BOT-V1'
 
 // cpanel 
-global.domain = 'https://' // deeceexxx
-global.apikey2 = 'ptlc' // I love anita
-global.capikey2 = 'ptla' // david x anita 
+global.domain = 'https://' // Nothing
+global.apikey2 = 'ptlc' // I love Ben
+global.capikey2 = 'ptla' // Ben
 global.eggsnya = '15' // The id eggs used if the id is 5, just leave it, don't change it
 global.location = '1' // id location
 
