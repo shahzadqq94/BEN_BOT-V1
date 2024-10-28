@@ -4,7 +4,7 @@
 <u>⚡ A SIMPLE WHATSAPP USER BOT CREATED NOTHING ⚡</u>
 </p>
 <p align="center">
-<img src="https://api.shannmoderz.xyz/server/file/JhnZNPg59LpUxYf.jpg"/>       
+<img src="https://imgur.com/a/smfYwOK"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ BEN-+BOT-+V1★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+NOTHING;RELEASED+DATE+22%2F8%2F2024." alt="Typing SVG" /></a>
  </p>
@@ -44,7 +44,7 @@
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/93730285765"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/93730285765"><img src="https://img.shields.io/badge/Contact Nothing-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/ronix_tech"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
@@ -76,4 +76,4 @@
 ## Community and Support
 
 FOLLOW NOTHING WHAtSAPP CHANNEL FOR MORE UPDATES
-[![JOIN WHATSAPP GROUP/CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32))
+[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32))
