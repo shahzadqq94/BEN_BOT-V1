@@ -23,7 +23,7 @@
 ## BEN_BOT-V1 Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/TraderAn-King/BEN_BOT-V1/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` ON [`REPLIT`](https://replit.com/@deeceexxx01/DavidCyril-X-pair-1)** 
+2.  **Get `SESSION ID` ON [`REPLIT`](https://replit.com/@gdgdlkamshz/Nothing-pair)** 
 
 3. **UPLOAD YOUR CREDS.JSON FILE ON SESSION FOLDER**
 
@@ -37,7 +37,7 @@
 
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32) for more**
 
-9. **All Tutorials Here [`Click Here`](https://www.youtube.com/@DavidCyril_TECH)**
+9. **All Tutorials Here [`Click Here`](https://ronix_tech)**
 
 </a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
