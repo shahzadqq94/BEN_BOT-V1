@@ -23,7 +23,7 @@
 ## BEN_BOT-V1 Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/TraderAn-King/BEN_BOT-V1/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` ON [`REPLIT`](https://replit.com/@gdgdlkamshz/Nothing-pair)** 
+2.  **Get `SESSION ID` ON [`REPLIT`](https://replit.com/@gdgdlkamshz/Nothing-pair-1)** 
 
 3. **UPLOAD YOUR CREDS.JSON FILE ON SESSION FOLDER**
 
