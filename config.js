@@ -9,18 +9,18 @@ global.nomerowner = ["93730285765"]
 
 // Apikey 
 
-global.skizo = 'Nothing'
-global.casterix = 'TraderAn-King'
+global.skizo = 'NOTHING'
+global.casterix = 'BEN_BOT-V1'
 //watermark 
 global.packname = '*NOTHING*'
 global.author = 'BEN_BOT-V1'
 
 // cpanel 
-global.domain = 'https://' // Nothing
-global.apikey2 = 'ptlc' // I love Ben
-global.capikey2 = 'ptla' // Ben
-global.eggsnya = '15' // The id eggs used if the id is 5, just leave it, don't change it
-global.location = '1' // id location
+global.domain = 'https://'
+global.apikey2 = 'ptlc'
+global.capikey2 = 'ptla'
+global.eggsnya = '15'
+global.location = '1'
 
 
 global.apilinode = ''// apikey vps account linode
@@ -68,6 +68,9 @@ global.chatbot = false;
 global.autoreact = false;
 
 global.prefix = '.';
+
+
+global.welcome = false;
 
 global.autobio = false;
 
