@@ -1,24 +1,26 @@
-# استفاده از تصویر پایه Node.js
 FROM node:18-slim
+
+# نصب ابزارهای ضروری
+RUN apt-get update && apt-get install -y git
 
 # تنظیم دایرکتوری کاری
 WORKDIR /app
 
-# کپی کردن فایل‌های package.json و package-lock.json (در صورت وجود)
+# کپی کردن فایل‌های package.json و package-lock.json
 COPY package*.json ./
 
-# install
+# نصب پکیج‌ها
 RUN npm install --production
 
-# copy project
+# کپی پروژه
 COPY . .
 
-# setup bot
+# تنظیم متغیرهای محیطی
 ENV NODE_ENV=production
 ENV PORT=3000
 
-# open port
+# باز کردن پورت
 EXPOSE 3000
 
-# start app
+# اجرای برنامه
 CMD ["npm", "start"]
