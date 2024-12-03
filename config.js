@@ -77,7 +77,7 @@ global.autobio = false;
 
 //_____________//
 // Don't change it
-global.antilink = false;
+global.antilink = true;
 global.antibot = false
 //—————「 Deadline 」—————//
 let file = require.resolve(__filename)
